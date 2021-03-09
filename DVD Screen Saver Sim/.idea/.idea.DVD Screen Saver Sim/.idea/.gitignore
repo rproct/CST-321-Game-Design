@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.DVD Screen Saver Sim.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../:\CST-321-Game-Design\DVD Screen Saver Sim\.idea\.idea.DVD Screen Saver Sim\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
